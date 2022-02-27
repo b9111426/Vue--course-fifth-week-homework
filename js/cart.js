@@ -146,7 +146,7 @@ const app = Vue.createApp({
 
       setTimeout(() => {
         loader.hide()
-      }, 1000)
+      }, 600)
     }
   },
   mounted() {
